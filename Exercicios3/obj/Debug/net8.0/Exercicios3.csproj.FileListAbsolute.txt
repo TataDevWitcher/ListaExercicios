@@ -1,0 +1,15 @@
+C:\Users\X\Documents\ProjetosGit\ListaExercicios\Exercicios3\bin\Debug\net8.0\Exercicios3.exe
+C:\Users\X\Documents\ProjetosGit\ListaExercicios\Exercicios3\bin\Debug\net8.0\Exercicios3.deps.json
+C:\Users\X\Documents\ProjetosGit\ListaExercicios\Exercicios3\bin\Debug\net8.0\Exercicios3.runtimeconfig.json
+C:\Users\X\Documents\ProjetosGit\ListaExercicios\Exercicios3\bin\Debug\net8.0\Exercicios3.dll
+C:\Users\X\Documents\ProjetosGit\ListaExercicios\Exercicios3\bin\Debug\net8.0\Exercicios3.pdb
+C:\Users\X\Documents\ProjetosGit\ListaExercicios\Exercicios3\obj\Debug\net8.0\Exercicios3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X\Documents\ProjetosGit\ListaExercicios\Exercicios3\obj\Debug\net8.0\Exercicios3.AssemblyInfoInputs.cache
+C:\Users\X\Documents\ProjetosGit\ListaExercicios\Exercicios3\obj\Debug\net8.0\Exercicios3.AssemblyInfo.cs
+C:\Users\X\Documents\ProjetosGit\ListaExercicios\Exercicios3\obj\Debug\net8.0\Exercicios3.csproj.CoreCompileInputs.cache
+C:\Users\X\Documents\ProjetosGit\ListaExercicios\Exercicios3\obj\Debug\net8.0\Exercicios3.sourcelink.json
+C:\Users\X\Documents\ProjetosGit\ListaExercicios\Exercicios3\obj\Debug\net8.0\Exercicios3.dll
+C:\Users\X\Documents\ProjetosGit\ListaExercicios\Exercicios3\obj\Debug\net8.0\refint\Exercicios3.dll
+C:\Users\X\Documents\ProjetosGit\ListaExercicios\Exercicios3\obj\Debug\net8.0\Exercicios3.pdb
+C:\Users\X\Documents\ProjetosGit\ListaExercicios\Exercicios3\obj\Debug\net8.0\Exercicios3.genruntimeconfig.cache
+C:\Users\X\Documents\ProjetosGit\ListaExercicios\Exercicios3\obj\Debug\net8.0\ref\Exercicios3.dll
