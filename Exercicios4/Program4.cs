@@ -14,7 +14,7 @@ namespace Exercicios4
             double horasTrabalhadas, recebeHora, salario;
 
             Console.WriteLine("Digite o número do funcionário:");
-            numeroFuncionario = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            numeroFuncionario = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Digite a quantidade de horas trabalhadas:");
             horasTrabalhadas = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
@@ -24,7 +24,9 @@ namespace Exercicios4
 
             salario = horasTrabalhadas * recebeHora;
 
+            Console.WriteLine($"Funcionário {numeroFuncionario}");
             Console.WriteLine($"O salário do funcionário equivale à R$: {salario:F2}");
+            //ou Console.WriteLine("O salário do funcionário equivale à R$: " + salario.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
     
