@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Exercicios4
+namespace Exercicio4
 {
     class Program4
     {
