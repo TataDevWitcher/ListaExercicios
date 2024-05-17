@@ -1,0 +1,14 @@
+C:\Users\X\Documents\Estudo\Cursos\Exercícios\Orientação à objetos\Valor_Produtos\obj\Debug\net8.0\Valor_Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X\Documents\Estudo\Cursos\Exercícios\Orientação à objetos\Valor_Produtos\obj\Debug\net8.0\Valor_Produtos.AssemblyInfoInputs.cache
+C:\Users\X\Documents\Estudo\Cursos\Exercícios\Orientação à objetos\Valor_Produtos\obj\Debug\net8.0\Valor_Produtos.AssemblyInfo.cs
+C:\Users\X\Documents\Estudo\Cursos\Exercícios\Orientação à objetos\Valor_Produtos\obj\Debug\net8.0\Valor_Produtos.csproj.CoreCompileInputs.cache
+C:\Users\X\Documents\Estudo\Cursos\Exercícios\Orientação à objetos\Valor_Produtos\bin\Debug\net8.0\Valor_Produtos.exe
+C:\Users\X\Documents\Estudo\Cursos\Exercícios\Orientação à objetos\Valor_Produtos\bin\Debug\net8.0\Valor_Produtos.deps.json
+C:\Users\X\Documents\Estudo\Cursos\Exercícios\Orientação à objetos\Valor_Produtos\bin\Debug\net8.0\Valor_Produtos.runtimeconfig.json
+C:\Users\X\Documents\Estudo\Cursos\Exercícios\Orientação à objetos\Valor_Produtos\bin\Debug\net8.0\Valor_Produtos.dll
+C:\Users\X\Documents\Estudo\Cursos\Exercícios\Orientação à objetos\Valor_Produtos\bin\Debug\net8.0\Valor_Produtos.pdb
+C:\Users\X\Documents\Estudo\Cursos\Exercícios\Orientação à objetos\Valor_Produtos\obj\Debug\net8.0\Valor_Produtos.dll
+C:\Users\X\Documents\Estudo\Cursos\Exercícios\Orientação à objetos\Valor_Produtos\obj\Debug\net8.0\refint\Valor_Produtos.dll
+C:\Users\X\Documents\Estudo\Cursos\Exercícios\Orientação à objetos\Valor_Produtos\obj\Debug\net8.0\Valor_Produtos.pdb
+C:\Users\X\Documents\Estudo\Cursos\Exercícios\Orientação à objetos\Valor_Produtos\obj\Debug\net8.0\Valor_Produtos.genruntimeconfig.cache
+C:\Users\X\Documents\Estudo\Cursos\Exercícios\Orientação à objetos\Valor_Produtos\obj\Debug\net8.0\ref\Valor_Produtos.dll
