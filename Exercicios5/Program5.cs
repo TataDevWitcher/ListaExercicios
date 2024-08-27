@@ -10,7 +10,7 @@ namespace Exercicio5
             Console.WriteLine("*Peças - Valor total*");
             Console.WriteLine("Obs.: Use o . como separador de casas decimais");
 
-            int codigoPeca1, quantidadePecas1, codigoPrca2, quantidadePecas2;
+            int codigoPeca1, quantidadePecas1, codigoPeca2, quantidadePecas2;
             double valorUnitarioPeca1, valorUnitarioPeca2, total;
 
             Console.WriteLine("Primeira Peça - Insira o código, a quantidade e o valor unitário respectivamente separados por um espaço:");
@@ -21,7 +21,7 @@ namespace Exercicio5
 
             Console.WriteLine("Segunda Peça - Insira o código, a quantidade e o valor unitário respectivamente separados por um espaço:");
             informacoesPeca = Console.ReadLine().Split(' ');
-            codigoPrca2 = int.Parse(informacoesPeca[0]);
+            codigoPeca2 = int.Parse(informacoesPeca[0]);
             quantidadePecas2 = int.Parse(informacoesPeca[1]);
             valorUnitarioPeca2 = double.Parse(informacoesPeca[2], CultureInfo.InvariantCulture);
 
